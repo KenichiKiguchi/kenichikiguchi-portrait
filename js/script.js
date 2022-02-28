@@ -1,0 +1,3 @@
+$(".gallery").modaal({
+  type: 'image',
+ });
